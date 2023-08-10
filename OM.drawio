@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T03:40:19.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zccaLKVYA50PC72ctXKq" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T03:44:51.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7SnEfEnL3VmOCEDIxz5Q" version="21.3.8" type="github">
   <diagram name="第 1 页" id="uE3afGnhAG_w9gXQY3Z8">
-    <mxGraphModel dx="2137" dy="433" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3926" dy="2160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i7JAw242GCvu3cT-5Jvu-29" value="平台初始化权限为tenant默认权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i7JAw242GCvu3cT-5Jvu-20">
+        <mxCell id="i7JAw242GCvu3cT-5Jvu-29" value="平台初始化权限为tenant默认权限，初始化权限变更后，存量数据需要手动维护变更、增量数据走最新的逻辑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i7JAw242GCvu3cT-5Jvu-20">
           <mxGeometry x="-0.3195" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -70,6 +70,18 @@
           <mxGeometry x="-0.0362" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i7JAw242GCvu3cT-5Jvu-30" value="tenant无租户管理权限" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-342" y="313" width="135" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i7JAw242GCvu3cT-5Jvu-31" value="tenant可管理租户级开放平台开发者&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-374" y="347" width="207" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i7JAw242GCvu3cT-5Jvu-32" value="新增tenant、更新、停止、删除tenant&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="16" y="148" width="217" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i7JAw242GCvu3cT-5Jvu-34" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="837" y="6" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
