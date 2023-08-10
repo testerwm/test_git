@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:44:15.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wnyDMuXfDp4krDyhpw1W" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T12:21:06.233Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3Fg2fzF41eYvIbfsqOhc" version="21.3.8" type="github">
   <diagram name="第 1 页" id="uE3afGnhAG_w9gXQY3Z8">
-    <mxGraphModel dx="2204" dy="1048" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2154" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
         <mxCell id="i7JAw242GCvu3cT-5Jvu-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7JAw242GCvu3cT-5Jvu-67" target="i7JAw242GCvu3cT-5Jvu-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7JAw242GCvu3cT-5Jvu-67" value="开发者注册绑定即注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i7JAw242GCvu3cT-5Jvu-67" value="开发者注册时，绑定无效企业简称，" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2954" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7JAw242GCvu3cT-5Jvu-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7JAw242GCvu3cT-5Jvu-69" target="i7JAw242GCvu3cT-5Jvu-73">
