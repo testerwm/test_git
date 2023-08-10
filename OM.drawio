@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T09:02:49.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MzuMoCSgzmsElJ3Vi8VU" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:03:25.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="onBKQc1NXW5KKopvxCkJ" version="21.3.8" type="github">
   <diagram name="第 1 页" id="uE3afGnhAG_w9gXQY3Z8">
-    <mxGraphModel dx="2260" dy="1084" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2322" dy="1125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,7 +161,7 @@
         <mxCell id="i7JAw242GCvu3cT-5Jvu-60" value="判断企业名称" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1395" y="730" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i7JAw242GCvu3cT-5Jvu-61" value="注册成功，跳过审核" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i7JAw242GCvu3cT-5Jvu-61" value="注册成功，跳过审核；登陆成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7JAw242GCvu3cT-5Jvu-64" value="&lt;h1&gt;租户入驻&lt;/h1&gt;&lt;p&gt;介绍租户入驻的方式&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
